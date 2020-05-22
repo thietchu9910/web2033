@@ -320,6 +320,10 @@ h2.kieuchuto {
     border-top: 1px solid;
 }
 
+.shop {
+    border: 4px solid #cccc;
+}
+
 .rq-content-making-area.pt-3: 1px solid #e6e6e6;
 .row.gutter10 .col-sm-6:nth-child(1) .kdai {
     background-image: url(images/06nho.png);
